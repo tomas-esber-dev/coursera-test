@@ -1,2 +1,2 @@
-# coursera-test
-Coursera test repository
+# Tomas Esber's Repository
+Test repository
